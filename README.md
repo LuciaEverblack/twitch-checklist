@@ -1,4 +1,6 @@
-# twitch-checklist
+# Twitch Preflight Checklist
+
+
 
 
 ## Stream Title
@@ -14,3 +16,7 @@
 ## Conversation Topics
 
 ## Notes from Stream
+
+
+
+[] Do this
