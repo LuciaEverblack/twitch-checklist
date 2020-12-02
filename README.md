@@ -23,6 +23,12 @@ Streamers have to do a lot of work just to make sure their streams run smoothly.
 ## Conversation Topics
 *Keep a list of things you want to talk about or could talk about. That way if it gets quiet you have some fun things to talk about. I usually try to have ten things on my mind so that way if I spend ten minutes talking about each thing, I have an hour and a half of conversation. You can also add to this so you don't lose your train of thought.*
 
+1. Topic 1
+1. Topic 2
+1. Topic 3
+1. Topic 4
+1. Topic 5
+
 ## Notes from Stream
 *These are notes about things that I want to keep track of from the stream. If someone does something cool, asks a question I want to follow up, or gives me an idea, I write it here*
 
