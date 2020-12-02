@@ -3,7 +3,7 @@
 
 
 
-## Stream Title
+## - [ ] Stream Title
 
 ## Stream Categories
 
@@ -19,4 +19,4 @@
 
 
 
-[_] Do this
+- [ ] Do this
