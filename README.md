@@ -28,6 +28,11 @@ Streamers have to do a lot of work just to make sure their streams run smoothly.
 1. Topic 3
 1. Topic 4
 1. Topic 5
+1. Topic 6
+1. Topic 7
+1. Topic 8
+1. Topic 9
+1. Topic 10
 
 ## Notes from Stream
 *These are notes about things that I want to keep track of from the stream. If someone does something cool, asks a question I want to follow up, or gives me an idea, I write it here*
