@@ -45,6 +45,7 @@ This section is what I go through every time before I go live to make sure I don
 
 - [ ] Turn on camera, make sure the settings are correct
 - [ ] Turn on lighting
+- [ ] Turn on OBS and check that all scenes and sources are working
 - [ ] Clear any clutter or things you don't want on camera
 - [ ] Set the information above
 - [ ] Set the game title to the right game
