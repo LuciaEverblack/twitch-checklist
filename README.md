@@ -15,7 +15,7 @@ Streamers have to do a lot of work just to make sure their streams run smoothly.
 *This is what is sent in email notifications and smart notifications. Short and sweet works best here!*
 
 ## Twitter Post 
-*Don't just post that you are live, talk about what you are doing and show that personality! Use a gif, a selfie, or a video to help stand out more.*
+*Don't just post that you are live, talk about what you are doing and show that personality! Use a gif, a selfie, or a video to help stand out more. And YES you can and should put your Twitch URL here, Twiter won't surpress it.*
 
 ## Discord Post
 *If possible, tailor these to each community you are in. That way the message resonates with people and they are more likely to click on the link.*
