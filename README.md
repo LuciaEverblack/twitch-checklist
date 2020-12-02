@@ -3,7 +3,7 @@
 
 
 
-- [ ] ## Stream Title
+## Stream Title
 
 ## Stream Categories
 
@@ -19,4 +19,5 @@
 
 
 
-- [ ] Do this
+- [ ] Set the information above
+- [ ] Record a quick video in obs to make sure all audio is working
